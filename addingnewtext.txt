@@ -1,3 +1,3 @@
 Here there are 2 C programs which can improve our C basics.
 
-I have done some modifications over here so that we can use the pull feature
+I have done some modifications over here so that we can use the pull feature and execute the pull command
